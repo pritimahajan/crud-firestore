@@ -1,0 +1,30 @@
+logging:
+  level:
+    org.springframework: INFO
+    org.springframework.web: INFO
+
+
+info:
+  app:
+    name: crud firestore
+    description: API
+    version: 1.0.0-SNAPSHOT
+
+
+server:
+  port: 8787
+  error:
+    include-message: always
+
+spring:
+  cloud:
+    gcp:
+      firestore:
+        project-id: testupload-376417
+
+
+
+application:
+  version: 1.0
+  httpMethodsNotAllowed: HEAD,OPTIONS,TRACE,GET,DELETE
+
