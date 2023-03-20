@@ -1,10 +1,9 @@
+/Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/domain/HistoryData.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/CrudFirestoreApplication.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/controller/HomeController.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/config/WebSecurity.java
-/Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/domain/UserRequest.java
-/Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/repository/UserRepository.java
-/Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/service/UserService.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/config/OpenApiConfig.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/controller/UserApiController.java
+/Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/service/UserHistoryService.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/domain/User.java
 /Users/A325182/repos2/crud-firestore/src/main/java/com/pritimahajan/crudfirestore/controller/UserApi.java
