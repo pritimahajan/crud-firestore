@@ -54,7 +54,7 @@ public class UserHistoryService
 
     public boolean saveHistory(HistoryData historyData) throws ExecutionException, InterruptedException, IOException
     {
-        DocumentReference docRef = getConn().collection("historyData").document(historyData.getTimestamp());
+        DocumentReference docRef = getConn().collection("historyData").document(historyData.getEmail() + "_"+ historyData.getTimestamp());
         Map<String, Object> data = new HashMap<>();
         data.put("email", historyData.getEmail());
         data.put("url", historyData.getUrl());
